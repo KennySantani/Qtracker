@@ -17,7 +17,7 @@
 	margin-top: 100px;
 	width: 800px;
 	position: absolute;
-	padding: 50px;
+	padding: 70px;
 	background: transparent;
 	backdrop-filter: blur(7px);
 	border-radius: 50px;
@@ -34,9 +34,9 @@ label{
 .logo
 {
 	position: absolute;
-	top: 30px;
+	top: 10px;
 	z-index: 1000;
-	margin-left: 28%;
+	margin-left: 40%;
 }
 .brandname{
 	font-size: 100px;
@@ -44,8 +44,9 @@ label{
 }
 .q{
 	color: orange;
-	font-size: 200px;
+	font-size: 100px;
 }
 .tracker{
+	font-size: 50px;
 	font-family: Arial Black;
 }
